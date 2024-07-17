@@ -1,0 +1,27 @@
+Nome:
+arthur
+ Tema:
+1
+ Quantidade de Questões:
+10
+ Pontos:
+-1
+ | 
+Nome:
+gian
+ Tema:
+2
+ Quantidade de Questões:
+10
+ Pontos:
+1
+ | 
+Nome:
+dudu
+ Tema:
+10
+ Quantidade de Questões:
+10
+ Pontos:
+13
+ | 
